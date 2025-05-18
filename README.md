@@ -1,6 +1,7 @@
 
 # DATA2410 Realiable Transport Protocol (DRTP)
-Denne programmet implementerer DRTP for pålitelig filoverføring over UDP, med støtte for Go-Back-N algoritme, etablerer forbindelse og avslutter forbindelse riktig måte. Programmet kjøres med application.py, og kan startes enten som server eller klient. Programmet kjøres med application.py, og kan startes enten som server eller klient.
+================================================================
+Dette programmet implementerer av DRTP-DATA2410 Reliable transport Protocol. DRTP er en forenklet pålitelig transportprotokoll som er utviklet på toppen av UDP. Protokollen skal sørge for at data overføres på en sikker måte uten tap eller duplikater av pakker mellom klient og server. 
 
 # Hvordan kjører programmed med Python 3:
 DRTP programmet kan bli kjørt i enten server eller klient mode. Disse har ulike flagg som brukes.
