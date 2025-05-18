@@ -10,7 +10,7 @@ DRTP-programmet kan kjøres i enten **servermodus** eller **klientmodus**, og br
 ### klient modus: ###
 Hvis du vile kjøre programmet i klient modus. Bruk denne kommando:
 
-   ``` bash python3 application.py3 -c -f iceland-safiqul.jpg -i 127.0.0.1 -p 8080  ```
+   ``` python3 application.py3 -c -f iceland-safiqul.jpg -i 127.0.0.1 -p 8080  ```
 
 Parameter man bruker for å kjøre:
   -  -c starter i klientmodus
@@ -22,7 +22,7 @@ Parameter man bruker for å kjøre:
 ### Server modus ###
 Hvis du vile kjøre programmet i server modus. Bruk denne kommando:
 
-  ```bash python3 application.py3 -s -i 10.0.1.2 -p 8080 for server. -s starter i servermodus, -p er portnummer  ```
+  ``` python3 application.py3 -s -i 10.0.1.2 -p 8080 for server. -s starter i servermodus, -p er portnummer  ```
 
 Parameter man bruker for å kjøre:
   - -s starer i servermodus
