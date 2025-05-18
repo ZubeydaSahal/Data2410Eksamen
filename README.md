@@ -6,7 +6,7 @@ Dette programmet implementerer av DRTP-DATA2410 Reliable transport Protocol. DRT
 DRTP programmet kan bli kjørt i enten server eller klient mode. Disse har ulike flagg som brukes.
 
 
-# klient modus:
+### klient modus:###
 Hvis du vile kjøre programmet i klient modus. Bruker man denne:
 
 python3 application.py3 -c -f iceland-safiqul.jpg -i 127.0.0.1 -p 8080
