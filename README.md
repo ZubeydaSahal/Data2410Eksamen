@@ -14,9 +14,9 @@ Hvis du vile kjøre programmet i klient modus. Bruk denne kommando:
 
 Parameter man bruker for å kjøre:
   -  -c starter i klientmodus
-  -  -i serveren IP-adresse
+  -  -i serverens IP-adresse
   -  -p serveren portnummer
-  -  -f navn på filen som skal sendes til serveren. i denne oppgaven heter         filen iceland-safiqul.jpg
+  -  -f navn på filen som skal sendes til serveren. i dette prosjektet er          det iceland-safiqul.jpg
   -  -w er vindusstørrelse. brukte denne til å teste ulike størrelser 
 
 ### Server modus ###
@@ -26,9 +26,16 @@ Hvis du vile kjøre programmet i server modus. Bruk denne kommando:
 
 Parameter man bruker for å kjøre:
   - -s starer i servermodus
-  - -i serveren IP-adresse
+  - -i IP-adresse serveren skal binde seg til
   - -p serveren portnummer
-  - -d brukes til å ignorere pakker. bruker denne i discusion delen for å teste pakketap
+  - -d brukes til å ignorere en pakke for å simulere pakketap. Bruker den i       diskusjon delen for å teste pakketap
+
+
+### Testing og eksperimenter ###
+- Testet denne i mininet ved hjelp av simple-topo.py
+- tc-netem brukte for å simulere RTT og pakketap for 2% ,5% og 50%
+- -w brukte til å teste sliding window effektet
+- -d brukte for å analysere Go-Back-N algoritmen ved pakketap 
 
 
 
