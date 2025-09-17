@@ -40,7 +40,7 @@ Parameter man bruker for å kjøre:
 
 ## Rapport
 Hvis du har rapporten tilgjengelig som PDF, kan den legges her:
-📄 [Rapport (PDF)]()
+📄 [Rapport (PDF)](docs/112_drtp_rapport.pdf)
     
   
 
