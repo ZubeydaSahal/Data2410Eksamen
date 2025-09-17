@@ -38,9 +38,8 @@ Parameter man bruker for å kjøre:
 - -d brukte for å analysere Go-Back-N algoritmen ved pakketap 
 
 
-## Rapport
-Hvis du har rapporten tilgjengelig som PDF, kan den legges her:
-📄 [Rapport (PDF)](docs/112_drtp_rapport.pdf)
-    
-  
+
+  ## Rapport
+📄 [Full rapport (PDF)](docs/112_drtp_rapport.pdf)
+
 
