@@ -39,7 +39,3 @@ Parameter man bruker for å kjøre:
 
 
 
-  ## Rapport
-📄 [Full rapport (PDF)](docs/112_drtp_rapport.pdf)
-
-
